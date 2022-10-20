@@ -4,7 +4,7 @@ transform files data based on given schemas and create .ndjson files as result
 ## Assumptions
 * All data files will be on .txt extension and follow the naming convention of: `<name of schema>_<yyyy>-<mm>-<dd>.txt`
 * All specification file will be created on `csv` format and will include the following schema: `column name, width, datatype`
-* Not to process same data files if already processed in preious runs
+* Not to process same data files if already processed in previous runs
 
 ## Design Notes
 * Data files will be processed in a loop, thiking several files will be waiting on folder to be processed.
