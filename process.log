@@ -1,0 +1,31 @@
+20-10-2022 12:16:20 - process start
+20-10-2022 12:16:55 - process start
+20-10-2022 12:18:39 - process start
+20-10-2022 12:20:49 - process start
+20-10-2022 12:20:49 - processing file:testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - get schema for file:testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - read extract data from file:testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - map data rows of file: testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - create ndjson file for data from file: testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - add file: testformat1_2021-07-06.txt to processed file
+20-10-2022 12:20:49 - ndjson file created successfully for source file: testformat1_2021-07-06.txt
+20-10-2022 12:20:49 - processing file:testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - get schema for file:testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - read extract data from file:testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - map data rows of file: testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - create ndjson file for data from file: testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - add file: testformat1_2022-10-19.txt to processed file
+20-10-2022 12:20:49 - ndjson file created successfully for source file: testformat1_2022-10-19.txt
+20-10-2022 12:20:49 - processing file:testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - get schema for file:testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - read extract data from file:testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - map data rows of file: testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - create ndjson file for data from file: testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - add file: testformat2_2022-10-20.txt to processed file
+20-10-2022 12:20:49 - ndjson file created successfully for source file: testformat2_2022-10-20.txt
+20-10-2022 12:20:49 - process completed
+20-10-2022 12:21:23 - process start
+20-10-2022 12:21:23 - file:testformat1_2021-07-06.txt processed already
+20-10-2022 12:21:23 - file:testformat1_2022-10-19.txt processed already
+20-10-2022 12:21:23 - file:testformat2_2022-10-20.txt processed already
+20-10-2022 12:21:23 - process completed

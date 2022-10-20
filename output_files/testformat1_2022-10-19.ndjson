@@ -1,0 +1,3 @@
+{"name": "Test1", "valid": true, "count": 1}
+{"name": "Test121886", "valid": false, "count": -14}
+{"name": "test@$#a", "valid": false, "count": 122}

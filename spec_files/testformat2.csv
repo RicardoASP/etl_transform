@@ -1,0 +1,5 @@
+column name,width,datatype
+code,5,TEXT
+amount,8,FLOAT
+flag,1,BOOLEAN
+received_date,10,DATE
